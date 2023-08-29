@@ -17,9 +17,15 @@ Generate graphs, charts, and plots to visualize pricing distribution, neighborho
 
 ## Key Insights
 **Pricing Spectrum:** A significant proportion of rentals are priced under $200, catering to different budgets.
+
 **Neighborhood Trends:** Manhattan commands premium prices, while Bronx offers more affordable options.
+
 **Room Type Economics:** Rental prices vary based on room types, with entire homes/apartments being pricier.
+
 **Review-Price Dynamics:** Not all lower-priced listings have more reviews, suggesting nuanced guest preferences.
+
 **Host Influence:** A specific host (Host ID: 219517861) manages over 300 listings, shaping the market.
+
 **Neighborhood Landscape:** Williamsburg leads in Airbnb listings, followed by Bedford Stuyvesant.
+
 **Stay Duration Patterns:** Most properties have minimum stay requirements under 10 nights.
