@@ -1,4 +1,4 @@
-#NYC Airbnb Data Analysis
+# NYC Airbnb Data Analysis
 This repository contains a data analysis of the NYC Airbnb dataset using Python libraries such as Pandas, Matplotlib, and Seaborn. The analysis covers data exploration, cleaning, analysis, and visualization to provide insights into the NYC rental market.
 
 Steps Involved
